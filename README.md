@@ -1,102 +1,60 @@
-<h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
-I am a pre final year computer science student who’s a software engineer before university hours and a content strategist/creator/evangelist after university hours. I focus on scalability with a passion for performance and simplicity.
-
-My best days are when I find ways to create impact in the communities I am a part of either by code, content or mentorship. My best projects are the ones that helped my users with their needs and my customers achieve their goals.
-
-Don’t hesitate to reach out if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
+<h1 align="center">Hey !!!, Welcome to My GitHub </h1>
 
 
-### Connect with me 🌏
+I am a Mobile Application Developer with a tapestry of experiences. My developer journey has taken me through diverse landscapes, from the realms of Animation and Gaming to the impactful domains of NGOs and Fintech. 
 
-[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" MLSA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][MLSA]
-[<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
-<br />
-<br />
+In terms of technical prowess, I am proficient in an array of programming languages including Java, Kotlin, Dart, Python, and C#. My expertise extends to frameworks like Jetpack Compose, Dagger Hilt, Unity, and Docker. I have hands-on experience with backend technologies such as Spring Boot and Flask, along with a versatile range of databases including mysql, Postgre, MongoDB, Firebase as well as local databases like Sqlite, Room, Drift, and Hive.
 
 ---
 
 ## 💻 Tech Stack:
 
 <p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" width="60"/> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60"/> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" width="60"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60"/>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="60" width="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60" width="60"/>    
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" width="60"/>     
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" width="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="60" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="60" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" width="60"/>
+      
 </p>
 
 <br />
 <br />
 
 ---
-### Latest YouTube Videos 📺
-<!-- YOUTUBE:START -->
-- [CNCF Mega Swags Unboxing: T-shirts &amp; Hoodies](https://www.youtube.com/watch?v=gOY9_SD0-Cw)
-- [How to connect a Linux VM to VSCode?](https://www.youtube.com/watch?v=skKH_rKGjDw)
-- [How to deploy a Linux VM on Azure easily?](https://www.youtube.com/watch?v=FYhKavHHQU8)
-- [Use Azure as your personal computer ft  VSCode Webinar Recording](https://www.youtube.com/watch?v=YjgzByOr1Qk)
-- [Apple AirPods Max Unboxing &amp; First Look &lpar;Sky Blue&rpar;](https://www.youtube.com/watch?v=lwc6_LELoa4)
-<!-- YOUTUBE:END -->
-▶ [...more YouTube videos](https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1)
-
-
-
-### Latest Blog Posts 📝
-- [How to use Kubernetes events for effective alerting and monitoring | Grafana Labs](https://grafana.com/blog/2023/01/23/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)
-- [How to SSH into a Docker container | Tailscale ](https://tailscale.com/learn/ssh-into-docker-container/)
-- [Profiling Go Code with GoLand | JetBrains ](https://blog.jetbrains.com/go/2023/02/02/profiling-go-code-with-goland/)
-- [Understanding Fuzz Testing in Go | JetBrains ](https://blog.jetbrains.com/go/2022/12/14/understanding-fuzz-testing-in-go/)
-- [Managing Your Hyperconverged Network with Harvester | SUSE ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
-- [How to Deploy Postgres on Kubernetes](https://www.containiq.com/post/deploy-postgres-on-kubernetes)
-- [Kubernetes Taints and Tolerations | Ultimate Guide and Best Practices](https://www.containiq.com/post/kubernetes-taints-and-tolerations)
-- [Working With Kubernetes Objects | Cheat Sheet & Tutorial](https://www.containiq.com/post/kubernetes-objects)
-- [5 Ways to Access Kubernetes Clusters | Loft Labs ](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
-- [Using Jaeger vs. Prometheus | Differences & Use Cases](https://www.containiq.com/post/jaeger-vs-prometheus)
-
-▶ [...more Blogs here](https://hrittikhere.github.io/blogs/)
-
-
-<br />
-<br />
-<h3 align="center">Show some &nbsp;❤️&nbsp; | ⭐ this Repository</h3>
-
----
-<img align="left" alt="Dog" width="" src="tenor.gif" />
-<img align="right" alt="Dog" width="" src="tenor.gif" />
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
-</p>
+### Proficiency Showcase  </>👨‍🏫</>
+- [Clean Arcitecture Flutter App](https://www.youtube.com/watch?v=gOY9_SD0-Cw)
+- [Kotlin Jetpack Compose MVVM](https://www.youtube.com/watch?v=skKH_rKGjDw)
+- [Springboot Microservice](https://www.youtube.com/watch?v=FYhKavHHQU8)
+- [Node Editor](https://www.youtube.com/watch?v=YjgzByOr1Qk)
+- [Code Generator](https://www.youtube.com/watch?v=lwc6_LELoa4)
+ 
 
 <br />
 <br />
 
 ---
-
-
-[twitter]: https://twitter.com/hrittikhere
-[youtube]: https://www.youtube.com/channel/UC1Hcs44hqebvjvTeJuVEi2A?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/hrittikhere
-[MLSA]: https://studentambassadors.microsoft.com/en-US/profile/90461
-[blog]:https://www.p3r.one/author/hrittik/
-
-
-<!-- Hope you Have a Nice Day. Let's collab and connect using these links 😋 -->
-
