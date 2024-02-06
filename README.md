@@ -58,3 +58,9 @@ In terms of technical prowess, I am proficient in an array of programming langua
 <br />
 
 ---
+|Languages|                           |Knowledge base                         |
+|----------------|-------------------------------|-----------------------------|
+|dart          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60"/>         | |
+|Java|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60"/> | |
+|Kotlin|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60"/> | |
+|Python          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/> | |
